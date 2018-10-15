@@ -25,3 +25,16 @@ tr:nth-child(2n+1)
 {
     background-color: palevioletred ;
 }
+
+tr:hover{
+    background-color:blue;
+}
+img:hover{
+
+    transform : scale(6);
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
