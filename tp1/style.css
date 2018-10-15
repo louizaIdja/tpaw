@@ -1,0 +1,15 @@
+
+td
+{
+    border: 1px solid black;
+}
+table
+{
+    border: 1px solid black;
+    width: 100%;
+}
+img
+{
+    width: 2em;
+    height: 2em;
+}
